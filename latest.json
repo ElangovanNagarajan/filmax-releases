@@ -1,6 +1,6 @@
 {
-  "version": "1.1.1",
-  "versionCode": 3,
+  "version": "1.2.0",
+  "versionCode": 4,
   "apkUrl": "https://raw.githubusercontent.com/ElangovanNagarajan/filmax-releases/main/70mm-Filmax-arm64.apk",
-  "notes": "Fixes the \"Check failed\" error and stops the app burning through GitHub's hourly request limit."
+  "notes": "Finds movies even when the name has a hyphen/spelling difference (e.g. \"Spiderman\" now matches \"Spider-Man\"). In-app alerts fire right away while the app is open. Cleaner Settings, and the Telegram test now sends from the server."
 }
