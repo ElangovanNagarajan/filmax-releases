@@ -1,6 +1,6 @@
 {
-  "version": "1.2.6",
-  "versionCode": 10,
+  "version": "1.2.7",
+  "versionCode": 11,
   "apkUrl": "https://raw.githubusercontent.com/ElangovanNagarajan/filmax-releases/main/70mm-Filmax-arm64.apk",
-  "notes": "Seat chart: added A far / A near sub-header row. Green color is now uniform across both Non IMAX columns."
+  "notes": "Seat chart: uniform green glow across both Non IMAX columns. When both overlap, full green row + blue overlay on IMAX side."
 }
