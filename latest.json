@@ -1,6 +1,6 @@
 {
-  "version": "1.2.3",
-  "versionCode": 7,
+  "version": "1.2.4",
+  "versionCode": 8,
   "apkUrl": "https://raw.githubusercontent.com/ElangovanNagarajan/filmax-releases/main/70mm-Filmax-arm64.apk",
-  "notes": "Seat chart glow: green bar (left) for Non IMAX, blue bar (right) for IMAX — both show clearly when rows overlap."
+  "notes": "Seat chart: full row glow restored. When both Non IMAX and IMAX overlap, green left half + blue right half."
 }
