@@ -1,6 +1,6 @@
 {
-  "version": "1.2.1",
-  "versionCode": 5,
+  "version": "1.2.2",
+  "versionCode": 6,
   "apkUrl": "https://raw.githubusercontent.com/ElangovanNagarajan/filmax-releases/main/70mm-Filmax-arm64.apk",
-  "notes": "Seat chart matches the reference image. Cleaner Settings: toggle for notifications, simpler update section."
+  "notes": "Revised seat chart data to match the updated reference chart."
 }
