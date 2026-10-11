@@ -1,6 +1,6 @@
 {
-  "version": "1.2.8",
-  "versionCode": 12,
+  "version": "1.3.0",
+  "versionCode": 13,
   "apkUrl": "https://raw.githubusercontent.com/ElangovanNagarajan/filmax-releases/main/70mm-Filmax-arm64.apk",
-  "notes": "Seat chart: back to the split glow style — green left (60%), blue right (40%). Both Non IMAX columns have the same green shade."
+  "notes": "Warns you when the watcher has stopped, instead of looking normal while nothing is being checked. Backend: a blocked site can no longer erase good results, and a GitHub lockout now alerts you on Telegram."
 }
