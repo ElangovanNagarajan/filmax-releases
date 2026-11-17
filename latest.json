@@ -1,6 +1,6 @@
 {
-  "version": "1.4.0",
-  "versionCode": 14,
+  "version": "1.5.0",
+  "versionCode": 15,
   "apkUrl": "https://raw.githubusercontent.com/ElangovanNagarajan/filmax-releases/main/70mm-Filmax-arm64.apk",
-  "notes": "Shows now appear for theaters like Rohini (BookMyShow changed its pages). Movie and theater names are matched loosely — one typo is fine. Each watch now says why it found nothing: theater not found, movie not listed, or a site that didn't load."
+  "notes": "Tapping a show time now opens that show's seat selection in BookMyShow — every show, every time, never district.in. Shorter status messages."
 }
