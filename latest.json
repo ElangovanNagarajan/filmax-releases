@@ -1,6 +1,6 @@
 {
-  "version": "1.3.0",
-  "versionCode": 13,
+  "version": "1.4.0",
+  "versionCode": 14,
   "apkUrl": "https://raw.githubusercontent.com/ElangovanNagarajan/filmax-releases/main/70mm-Filmax-arm64.apk",
-  "notes": "Warns you when the watcher has stopped, instead of looking normal while nothing is being checked. Backend: a blocked site can no longer erase good results, and a GitHub lockout now alerts you on Telegram."
+  "notes": "Shows now appear for theaters like Rohini (BookMyShow changed its pages). Movie and theater names are matched loosely — one typo is fine. Each watch now says why it found nothing: theater not found, movie not listed, or a site that didn't load."
 }
