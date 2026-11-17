@@ -1,6 +1,6 @@
 {
-  "version": "1.6.0",
-  "versionCode": 16,
+  "version": "1.6.1",
+  "versionCode": 17,
   "apkUrl": "https://raw.githubusercontent.com/ElangovanNagarajan/filmax-releases/main/70mm-Filmax-arm64.apk",
-  "notes": "Tapping a theater name opens that theater's show page in BookMyShow. Updates now always download the newest build."
+  "notes": "Theater name opens that theater's page in BookMyShow. Short one-line warnings (e.g. \"BMS: Rohini not found\"). Updates always download the newest build."
 }
