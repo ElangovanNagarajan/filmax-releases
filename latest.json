@@ -1,6 +1,6 @@
 {
-  "version": "1.5.0",
-  "versionCode": 15,
+  "version": "1.6.0",
+  "versionCode": 16,
   "apkUrl": "https://raw.githubusercontent.com/ElangovanNagarajan/filmax-releases/main/70mm-Filmax-arm64.apk",
-  "notes": "Tapping a show time now opens that show's seat selection in BookMyShow — every show, every time, never district.in. Shorter status messages."
+  "notes": "Tapping a theater name opens that theater's show page in BookMyShow. Updates now always download the newest build."
 }
